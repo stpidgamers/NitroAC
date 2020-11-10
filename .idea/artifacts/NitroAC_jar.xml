@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NitroAC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NitroAC_jar</output-path>
+    <root id="archive" name="NitroAC.jar">
+      <element id="module-output" name="NitroAC" />
+    </root>
+  </artifact>
+</component>
